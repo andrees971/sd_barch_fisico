@@ -1,0 +1,4 @@
+CUSTOMER_ID;CUST_FIRST_NAME;CUST_LAST_NAME;STREET_ADDRESS;POSTAL_CODE;CITY;STATE_PROVINCE;COUNTRY_ID;COUNTRY_NAME;REGION_ID;NLS_LANGUAGE;NLS_TERRITORY;CREDIT_LIMIT;CUST_EMAIL;PRIMARY_PHONE_NUMBER;PHONE_NUMBER_2;ACCOUNT_MGR_ID;LOCATION_GTYPE;LOCATION_SRID;LOCATION_X;LOCATION_Y
+326;Hal       ;Olin       ;Walpurgisstr 69           ;81243          ;Munich          ;;DE;Germany                 ;1              ;d  ;GERMANY;2400;Hal.Olin@FLICKER.EXAMPLE.COM          ;+49 89 012 4129 ;+49 89 083 4839;147;;;;
+327;Hannah    ;Kanth      ;Sendlinger Tor 4          ;81696          ;Munich          ;;DE;Germany                 ;1              ;d  ;GERMANY;2400;Hannah.Kanth@GADWALL.EXAMPLE.COM      ;+49 90 012 4131 ;+49 90 083 4131;147;;;;
+328;Hannah    ;Field      ;Theresienstr 15           ;81999          ;Munich          ;;DE;Germany                 ;1              ;d  ;GERMANY;2400;Hannah.Field@GALLINULE.EXAMPLE.COM    ;+49 91 012 4133 ;+49 91 083 4133;147;;;;
